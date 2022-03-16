@@ -1,0 +1,26 @@
+@charset "UTF-8";
+h1 {
+color:red;
+font-size:24px;
+font-weight:bolder;
+line-height:1.9;
+background-color:#82FF82;
+}
+h6 {
+color:blue;
+font-size:20px;
+font-weight:bold;
+line-height:1.7;
+background-color:#FF8282;
+}
+p {
+color:green;
+font-size:16px;
+font-weight:lighter;
+line-height:1.5;
+background-color:#CA82FF;
+}
+
+th {
+background-color:#6E6EFF;	
+}
